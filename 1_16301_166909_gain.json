@@ -1,0 +1,568 @@
+{
+  "chrom": "1",
+  "start": 16301,
+  "end": 166909,
+  "cnv_type": "gain",
+  "genes": [
+    {
+      "Pathway(ConsensusPathDB)": {
+        "imputed_unscaled": 1,
+        "imputed_scaled": 1,
+        "unimputed_unscaled": 1,
+        "raw": "Olfactory transduction - Homo sapiens (human);Olfactory receptor activity;Signaling by GPCR;Signal Transduction;Olfactory Signaling Pathway;G alpha (s) signalling events;GPCR downstream signalling"
+      },
+      "Function_description": {
+        "imputed_unscaled": 1,
+        "imputed_scaled": 1,
+        "unimputed_unscaled": 1,
+        "raw": "FUNCTION: Odorant receptor. {ECO:0000305}.; "
+      },
+      "Disease_description": {
+        "imputed_unscaled": 0,
+        "imputed_scaled": 0,
+        "unimputed_unscaled": 0,
+        "raw": NaN
+      },
+      "MIM_disease": {
+        "imputed_unscaled": 0,
+        "imputed_scaled": 0,
+        "unimputed_unscaled": 0,
+        "raw": NaN
+      },
+      "Orphanet_disorder": {
+        "imputed_unscaled": 0,
+        "imputed_scaled": 0,
+        "unimputed_unscaled": 0,
+        "raw": NaN
+      },
+      "Trait_association(GWAS)": {
+        "imputed_unscaled": 0,
+        "imputed_scaled": 0,
+        "unimputed_unscaled": 0,
+        "raw": NaN
+      },
+      "Expression(egenetics)": {
+        "imputed_unscaled": 0,
+        "imputed_scaled": 0,
+        "unimputed_unscaled": 0,
+        "raw": NaN
+      },
+      "Interactions(ConsensusPathDB)": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "P(HI)": {
+        "imputed_unscaled": 0.06092,
+        "imputed_scaled": -0.9799349958789502,
+        "unimputed_unscaled": 0.06092,
+        "raw": 0.06092
+      },
+      "HIPred_score": {
+        "imputed_unscaled": 0.186891868710518,
+        "imputed_scaled": -1.1103044648708695,
+        "unimputed_unscaled": 0.186891868710518,
+        "raw": 0.186891868710518
+      },
+      "GHIS": {
+        "imputed_unscaled": 0.5254770677458412,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "P(rec)": {
+        "imputed_unscaled": 0.07159,
+        "imputed_scaled": -0.8583705283631564,
+        "unimputed_unscaled": 0.07159,
+        "raw": 0.07159
+      },
+      "RVIS_EVS": {
+        "imputed_unscaled": -0.004235183851566725,
+        "imputed_scaled": -7.369902281850349e-18,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "RVIS_percentile_EVS": {
+        "imputed_unscaled": 49.95178564984664,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "LoF-FDR_ExAC": {
+        "imputed_unscaled": 0.9905209,
+        "imputed_scaled": 2.002642731471328,
+        "unimputed_unscaled": 0.9905209,
+        "raw": 0.9905209
+      },
+      "RVIS_ExAC": {
+        "imputed_unscaled": -0.003796975547572471,
+        "imputed_scaled": 5.4543903459788996e-18,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "RVIS_percentile_ExAC": {
+        "imputed_unscaled": 49.896086187681405,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "ExAC_pLI": {
+        "imputed_unscaled": 0.176329298172162,
+        "imputed_scaled": -0.34120041290822445,
+        "unimputed_unscaled": 0.176329298172162,
+        "raw": 0.176329298172162
+      },
+      "ExAC_pRec": {
+        "imputed_unscaled": 0.644086264144236,
+        "imputed_scaled": 0.4429788363495849,
+        "unimputed_unscaled": 0.644086264144236,
+        "raw": 0.644086264144236
+      },
+      "ExAC_pNull": {
+        "imputed_unscaled": 0.17958443768360194,
+        "imputed_scaled": -0.08250046106165823,
+        "unimputed_unscaled": 0.17958443768360194,
+        "raw": 0.17958443768360197
+      },
+      "ExAC_nonTCGA_pLI": {
+        "imputed_unscaled": 0.550302420215064,
+        "imputed_scaled": 0.6142099081469419,
+        "unimputed_unscaled": 0.550302420215064,
+        "raw": 0.550302420215064
+      },
+      "ExAC_nonTCGA_pRec": {
+        "imputed_unscaled": 0.3966397058018901,
+        "imputed_scaled": -0.2708895164302884,
+        "unimputed_unscaled": 0.3966397058018901,
+        "raw": 0.39663970580189006
+      },
+      "ExAC_nonTCGA_pNull": {
+        "imputed_unscaled": 0.0530578739830465,
+        "imputed_scaled": -0.4976243958063412,
+        "unimputed_unscaled": 0.0530578739830465,
+        "raw": 0.0530578739830465
+      },
+      "ExAC_nonpsych_pLI": {
+        "imputed_unscaled": 0.179613130021276,
+        "imputed_scaled": -0.4029896797613259,
+        "unimputed_unscaled": 0.179613130021276,
+        "raw": 0.179613130021276
+      },
+      "ExAC_nonpsych_pRec": {
+        "imputed_unscaled": 0.623408532464667,
+        "imputed_scaled": 0.4562895687582376,
+        "unimputed_unscaled": 0.623408532464667,
+        "raw": 0.623408532464667
+      },
+      "ExAC_nonpsych_pNull": {
+        "imputed_unscaled": 0.19697833751405705,
+        "imputed_scaled": 0.0027659549291345984,
+        "unimputed_unscaled": 0.19697833751405705,
+        "raw": 0.19697833751405702
+      },
+      "gnomAD_pLI": {
+        "imputed_unscaled": 0.03065,
+        "imputed_scaled": -0.6446576618993533,
+        "unimputed_unscaled": 0.03065,
+        "raw": 0.03065
+      },
+      "gnomAD_pRec": {
+        "imputed_unscaled": 0.61116,
+        "imputed_scaled": 0.3296900765459697,
+        "unimputed_unscaled": 0.61116,
+        "raw": 0.61116
+      },
+      "gnomAD_pNull": {
+        "imputed_unscaled": 0.35819,
+        "imputed_scaled": 0.37313239839507945,
+        "unimputed_unscaled": 0.35819,
+        "raw": 0.35819
+      },
+      "ExAC_del.score": {
+        "imputed_unscaled": 0.008161870162229494,
+        "imputed_scaled": -1.3710761296111886e-17,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "ExAC_dup.score": {
+        "imputed_unscaled": 0.008731241114322308,
+        "imputed_scaled": -9.799615137941488e-18,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "ExAC_cnv.score": {
+        "imputed_unscaled": 0.010012712967095824,
+        "imputed_scaled": 3.922764355152945e-18,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "GDI": {
+        "imputed_unscaled": 113.16669,
+        "imputed_scaled": -0.44371104510805415,
+        "unimputed_unscaled": 113.16669,
+        "raw": 113.16668999999999
+      },
+      "GDI-Phred": {
+        "imputed_unscaled": 2.31572,
+        "imputed_scaled": -0.5033656799929229,
+        "unimputed_unscaled": 2.31572,
+        "raw": 2.3157200000000002
+      },
+      "LoFtool_score": {
+        "imputed_unscaled": 0.4971370619234973,
+        "imputed_scaled": 2.2586986792909994e-16,
+        "unimputed_unscaled": NaN,
+        "raw": NaN
+      },
+      "SORVA_LOF_MAF0.005_HetOrHom": {
+        "imputed_unscaled": 0.0003993610223642173,
+        "imputed_scaled": -0.2584695204016708,
+        "unimputed_unscaled": 0.0003993610223642173,
+        "raw": 0.00039936102236421734
+      },
+      "SORVA_LOF_MAF0.005_HomOrCompoundHet": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": -0.08863393014558676,
+        "unimputed_unscaled": 0.0,
+        "raw": 0.0
+      },
+      "SORVA_LOF_MAF0.001_HetOrHom": {
+        "imputed_unscaled": 0.0003993610223642173,
+        "imputed_scaled": -0.14829896797250308,
+        "unimputed_unscaled": 0.0003993610223642173,
+        "raw": 0.00039936102236421734
+      },
+      "SORVA_LOF_MAF0.001_HomOrCompoundHet": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": -0.08236190469708249,
+        "unimputed_unscaled": 0.0,
+        "raw": 0.0
+      },
+      "SORVA_LOForMissense_MAF0.005_HetOrHom": {
+        "imputed_unscaled": 0.022763578274760384,
+        "imputed_scaled": -0.1772901012234299,
+        "unimputed_unscaled": 0.022763578274760384,
+        "raw": 0.022763578274760384
+      },
+      "SORVA_LOForMissense_MAF0.005_HomOrCompoundHet": {
+        "imputed_unscaled": 0.00439297124600639,
+        "imputed_scaled": 0.25750657168739144,
+        "unimputed_unscaled": 0.00439297124600639,
+        "raw": 0.00439297124600639
+      },
+      "SORVA_LOForMissense_MAF0.001_HetOrHom": {
+        "imputed_unscaled": 0.008386581469648562,
+        "imputed_scaled": -0.3660648164367581,
+        "unimputed_unscaled": 0.008386581469648562,
+        "raw": 0.008386581469648562
+      },
+      "SORVA_LOForMissense_MAF0.001_HomOrCompoundHet": {
+        "imputed_unscaled": 0.0019968051118210857,
+        "imputed_scaled": 0.4226512632994212,
+        "unimputed_unscaled": 0.0019968051118210857,
+        "raw": 0.0019968051118210857
+      },
+      "Gene_indispensability_score": {
+        "imputed_unscaled": 0.11437135981131,
+        "imputed_scaled": -1.3077054256683949,
+        "unimputed_unscaled": 0.11437135981131,
+        "raw": 0.11437135981131001
+      },
+      "HIPred_N": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "N"
+      },
+      "HIPred_Y": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "N"
+      },
+      "Known_rec_info_lof-tolerant": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Known_rec_info_recessive": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "ExAC_cnv_flag_N": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "ExAC_cnv_flag_Y": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Gene damage prediction (all disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all Mendelian disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all Mendelian disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all Mendelian disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AD disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AD disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AD disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AR disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AR disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (Mendelian AR disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all PID disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all PID disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all PID disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AD disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AD disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AD disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AR disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AR disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (PID AR disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all cancer disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all cancer disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (all cancer disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer recessive disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer recessive disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer recessive disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer dominant disease-causing genes)_High": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer dominant disease-causing genes)_Low": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "Medium"
+      },
+      "Gene damage prediction (cancer dominant disease-causing genes)_Medium": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "Medium"
+      },
+      "Essential_gene_E": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_N": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_CRISPR_E": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_CRISPR_N": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_CRISPR2_E": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_CRISPR2_N": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_CRISPR2_S": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": NaN
+      },
+      "Essential_gene_gene-trap_E": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "N"
+      },
+      "Essential_gene_gene-trap_H": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "N"
+      },
+      "Essential_gene_gene-trap_K": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "N"
+      },
+      "Essential_gene_gene-trap_N": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "N"
+      },
+      "Gene_indispensability_pred_E": {
+        "imputed_unscaled": 0.0,
+        "imputed_scaled": 0.0,
+        "unimputed_unscaled": 0.0,
+        "raw": "N"
+      },
+      "Gene_indispensability_pred_N": {
+        "imputed_unscaled": 1.0,
+        "imputed_scaled": 1.0,
+        "unimputed_unscaled": 1.0,
+        "raw": "N"
+      }
+    }
+  ]
+}
